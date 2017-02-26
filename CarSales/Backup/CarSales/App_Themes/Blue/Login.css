@@ -1,0 +1,63 @@
+﻿body {
+}
+
+#login
+{
+    
+    margin:80px auto;
+    width:400px;
+    border:3px solid #007ACC;
+    border-radius:10px 10px 40px 10px;
+    box-shadow: 0 0 25px #888888;
+     height:180px;
+}
+#validation
+{
+    width: 200px;
+    margin-top:20px;
+    margin-left:30px;
+}
+
+#loginHeader
+{
+    text-align:center;
+    background-color:#363636;
+    height:30px;
+     border-radius:7px 7px 0 0;
+    
+}
+#loginControls
+{
+    padding:25px;
+}
+
+.newUser
+{
+    padding-left: 15px;
+    color:#0066CC;
+    font-weight:bolder;
+}
+#register
+{
+    margin:80px auto;
+    /*padding-top:20px;
+    padding-left:30px;*/
+    width:400px;
+    border:3px solid #007ACC;
+    border-radius:10px 10px 40px 10px;
+    box-shadow: 0 0 25px #888888;
+    height:190px;
+}
+
+#registerInfo
+{
+    padding-top:25px;
+    padding-left:40px;
+}
+#registerHeader
+{
+    text-align:center;
+    background-color:#363636;
+    height:30px;
+     border-radius:7px 7px 0 0;
+}

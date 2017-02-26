@@ -1,0 +1,58 @@
+﻿body 
+{
+    
+}
+
+#upload
+{
+    width:380px;
+    margin:10px auto;
+    border:2px solid #007ACC;
+    border-radius:10px 10px 40px 10px;
+    box-shadow: 0 0 25px #888888;
+}
+
+#uploadCar
+{
+    
+    width:350px;  
+    padding: 10px;
+    margin:0 auto;
+}
+
+#uploadTitle
+{
+    background-color:#363636;
+    color:White;
+    margin-top:0px;
+   border-radius:7px 7px 0 0;
+    text-align:center;
+    height:30px;
+}
+#updateCustomer
+{
+    height:100%;
+    width:380px;
+    margin:10px auto;
+    border:3px solid #007ACC;
+    border-radius:10px 10px 40px 10px;
+    box-shadow: 0 0 25px #888888;
+    
+}
+
+#updateHeader
+{
+    background-color:#363636;
+    color:White;
+    margin-top:0px;
+    border-radius:7px 7px 0 0;
+    text-align:center;
+    height:30px;
+    
+}
+#updateControls
+{
+    padding-left: 20px;
+    margin: 10px auto;
+}
+

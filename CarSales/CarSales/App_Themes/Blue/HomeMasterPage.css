@@ -1,0 +1,25 @@
+﻿body 
+{
+    width:100%;
+    height:100%;
+    margin:0px;
+}
+#Homemiddle
+{
+    width: 75%;
+    height:100%;
+    margin: 5px;    
+}
+
+#homeadd
+{
+    padding-top:60px; 
+    width:18%;
+    height: 100%;
+    padding-left:10px;
+    margin-left: 30px;
+}
+#Homemiddle, #homeadd
+{
+    float:left;
+}

@@ -1,0 +1,121 @@
+C:\Users\Jess\Desktop\CarSales\CarSales.Biz\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jess\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.dll
+C:\Users\Jess\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.pdb
+C:\Users\Jess\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.dll
+C:\Users\Jess\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.dll
+C:\Users\Jess\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.dll
+C:\Users\Jess\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.pdb
+C:\Users\Jess\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.pdb
+C:\Users\Jess\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.pdb
+C:\Users\Jess\Desktop\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.dll
+C:\Users\Jess\Desktop\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.pdb
+D:\PD2\CarSales\CarSales.Biz\obj\Debug\ResolveAssemblyReference.cache
+D:\PD2\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.dll
+D:\PD2\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.dll
+D:\PD2\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.pdb
+D:\PD2\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.dll
+D:\PD2\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.dll
+D:\PD2\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.dll
+D:\PD2\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.pdb
+D:\PD2\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.pdb
+D:\PD2\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.pdb
+D:\PD2\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.pdb
+D:\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.dll
+D:\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.pdb
+D:\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.dll
+D:\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.dll
+D:\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.dll
+D:\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.pdb
+D:\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.pdb
+D:\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.pdb
+D:\CarSales\CarSales.Biz\obj\Debug\ResolveAssemblyReference.cache
+D:\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.dll
+D:\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.pdb
+C:\Users\Jess\Desktop\CarSalesTafe\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.dll
+C:\Users\Jess\Desktop\CarSalesTafe\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.pdb
+C:\Users\Jess\Desktop\CarSalesTafe\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.dll
+C:\Users\Jess\Desktop\CarSalesTafe\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.dll
+C:\Users\Jess\Desktop\CarSalesTafe\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.dll
+C:\Users\Jess\Desktop\CarSalesTafe\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.pdb
+C:\Users\Jess\Desktop\CarSalesTafe\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.pdb
+C:\Users\Jess\Desktop\CarSalesTafe\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.pdb
+C:\Users\Jess\Desktop\CarSalesTafe\CarSales\CarSales.Biz\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jess\Desktop\CarSalesTafe\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.dll
+C:\Users\Jess\Desktop\CarSalesTafe\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.pdb
+D:\Omar\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.dll
+D:\Omar\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.pdb
+D:\Omar\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.dll
+D:\Omar\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.dll
+D:\Omar\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.dll
+D:\Omar\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.pdb
+D:\Omar\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.pdb
+D:\Omar\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.pdb
+D:\Omar\CarSales\CarSales.Biz\obj\Debug\ResolveAssemblyReference.cache
+D:\Omar\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.dll
+D:\Omar\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.pdb
+G:\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.dll
+G:\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.pdb
+G:\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.dll
+G:\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.dll
+G:\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.dll
+G:\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.pdb
+G:\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.pdb
+G:\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.pdb
+G:\CarSales\CarSales.Biz\obj\Debug\ResolveAssemblyReference.cache
+G:\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.dll
+G:\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.pdb
+D:\DeskTop\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.dll
+D:\DeskTop\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.pdb
+D:\DeskTop\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.dll
+D:\DeskTop\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.dll
+D:\DeskTop\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.dll
+D:\DeskTop\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.pdb
+D:\DeskTop\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.pdb
+D:\DeskTop\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.pdb
+D:\DeskTop\CarSales\CarSales.Biz\obj\Debug\ResolveAssemblyReference.cache
+D:\DeskTop\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.dll
+D:\DeskTop\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.pdb
+C:\Users\Omar\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.dll
+C:\Users\Omar\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.pdb
+C:\Users\Omar\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.dll
+C:\Users\Omar\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.dll
+C:\Users\Omar\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.dll
+C:\Users\Omar\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.pdb
+C:\Users\Omar\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.pdb
+C:\Users\Omar\Desktop\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.pdb
+C:\Users\Omar\Desktop\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.dll
+C:\Users\Omar\Desktop\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.pdb
+C:\Users\Omar\Desktop\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.csprojResolveAssemblyReference.cache
+G:\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.dll
+G:\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.pdb
+G:\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.dll
+G:\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.dll
+G:\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.dll
+G:\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.pdb
+G:\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.pdb
+G:\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.pdb
+G:\Projects\CarSalesProject\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.csprojResolveAssemblyReference.cache
+G:\Projects\CarSalesProject\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.dll
+G:\Projects\CarSalesProject\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.pdb
+D:\Omar\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.dll
+D:\Omar\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.pdb
+D:\Omar\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.dll
+D:\Omar\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.dll
+D:\Omar\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.dll
+D:\Omar\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.pdb
+D:\Omar\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.pdb
+D:\Omar\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.pdb
+D:\Omar\CarSalesProject\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.csprojResolveAssemblyReference.cache
+D:\Omar\CarSalesProject\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.dll
+D:\Omar\CarSalesProject\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.pdb
+D:\Software Development\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.dll
+D:\Software Development\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Biz.pdb
+D:\Software Development\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.dll
+D:\Software Development\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.dll
+D:\Software Development\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.dll
+D:\Software Development\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Data.pdb
+D:\Software Development\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Entity.pdb
+D:\Software Development\Projects\CarSalesProject\CarSales\CarSales.Biz\bin\Debug\CarSales.Common.pdb
+D:\Software Development\Projects\CarSalesProject\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.csprojResolveAssemblyReference.cache
+D:\Software Development\Projects\CarSalesProject\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.dll
+D:\Software Development\Projects\CarSalesProject\CarSales\CarSales.Biz\obj\Debug\CarSales.Biz.pdb

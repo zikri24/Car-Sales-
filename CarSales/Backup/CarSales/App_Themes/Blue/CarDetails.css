@@ -1,0 +1,30 @@
+﻿body 
+{
+    
+}
+#repeater
+{
+    width: 600px;
+    margin: 20px;
+}
+#gridDetails
+{
+    width:340px;
+    margin:10px auto;
+    padding: 20px;
+}
+#sellerDetails
+{    
+    border:3px solid #007ACC;
+    border-radius:10px 10px 40px 10px;
+    box-shadow: 0 0 25px #888888;
+    width:380px;
+    height:200px;
+    margin:30px auto;
+}
+
+#sellerDetailsInfo
+{
+    padding-left:10px;
+    padding-top:5px;
+}

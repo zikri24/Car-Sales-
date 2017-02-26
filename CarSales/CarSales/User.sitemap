@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Home"  description="">
+    <siteMapNode  title="Find your Car"  description="">
+      <siteMapNode url="~/Home.aspx" title="Search for Cars"  description="" />
+      <siteMapNode url="~/UploadCar.aspx" title="Sell your Car"  description="" />
+    </siteMapNode>
+
+    <siteMapNode title="Your Account"  description="">      
+      <siteMapNode url="~/Showroom.aspx" title="Showroom"  description="" />
+      <siteMapNode url="~/UpdateCustomer.aspx" title="Edit your Profile"  description="" />
+      <siteMapNode url="~/UpdateYourCar.aspx" title="Update your Car"  description="" />
+     
+    </siteMapNode>
+
+    <siteMapNode title="Help"  description="">
+      <siteMapNode url="~/ContactUs.aspx" title="Contact Us"  description="" />
+      <siteMapNode url="~/AboutUs.aspx" title="About Us"  description="" />
+    </siteMapNode>
+
+  </siteMapNode>
+</siteMap>

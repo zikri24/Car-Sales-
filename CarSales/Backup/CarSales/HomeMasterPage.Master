@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HomeMasterPage.master.cs" Inherits="CarSales.HomeMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+	<link href="../../Profile/Profile/Default.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    
+
+    <div id ="menu">
+    <ul>
+    
+    <li>  <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/Home.aspx" 
+                Font-Size="15px">Home</asp:HyperLink>  </li>
+
+    <li>  <asp:HyperLink ID="HyperLink4" runat="server" 
+                NavigateUrl="~/UploadCar.aspx" Font-Bold="False">Sell Your Car</asp:HyperLink>  </li>
+
+    <li>   <asp:HyperLink ID="HyperLink1" runat="server" 
+                NavigateUrl="~/Showroom.aspx" Font-Bold="False" Font-Names="Arial" 
+                Font-Size="Medium">Showroom</asp:HyperLink>  </li>
+
+    <li>   <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/AboutUs.aspx">About Us</asp:HyperLink></li>
+
+    <li>  <asp:HyperLink ID="HyperLink3" runat="server" 
+                NavigateUrl="~/ContactUs.aspx" Width="100px">Contact Us</asp:HyperLink> </li>
+
+    <li><asp:LinkButton ID="LinkbtnLogin" runat="server" ForeColor="White" 
+                onclick="LinkbtnLogin_Click">Login</asp:LinkButton></li>
+
+    <li><asp:LinkButton ID="LinkbtnRegister" runat="server" ForeColor="White" 
+                onclick="LinkbtnRegister_Click" >Register</asp:LinkButton>
+        &nbsp;<asp:Label ID="lblLoggedAccount" runat="server" ForeColor="#007ACC"  
+                SkinID="white"></asp:Label></li>
+   
+    <li><asp:LinkButton ID="LinkbtnEditProfile" runat="server" ForeColor="White" 
+                onclick="LinkbtnEditProfile_Click">Edit Your Profile</asp:LinkButton></li>
+
+    </ul>
+
+      </div>
+        <div id="header">
+                <div id = "logo">
+                    <asp:Image ID="Image1" ImageUrl="Image/logo-carsales.jpg" runat="server" />
+                </div> 
+                <div id = "title">
+                    <asp:Image ID="Image2" ImageUrl="Image/Audi2.jpg" runat="server" />
+                </div>  
+                </div>
+       
+        <div id ="center">
+            
+            <div id="Homemiddle">
+
+
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+        </div>
+             <div id="homeadd">
+                 <asp:Image ID="Image3" ImageUrl="Image/AddImage.jpg" runat="server" Width="100%" Height="300px" />
+                 </div>
+        </div>
+        <div style="clear:both;"></div>
+        <div id="footer">
+            <a href="Home.aspx">Home</a>
+            <a href="~/Showroom.aspx">Showroom</a>
+            <a href="~/AboutUs.aspx">About Us</a>
+            <a href="~/ContactUs.aspx">Contact Us</a>
+        </div>   
+    </form>
+</body>
+</html>
